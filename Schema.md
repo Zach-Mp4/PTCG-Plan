@@ -12,7 +12,7 @@ This project will be a balanced full stack application with much backend and fro
 This project will use the Pokemon TCG Api in order to gather data about the pokemon cards such as prince, type, picture, set and any other necessary data. 
 
 ##Database Schema
-![Database Schema](/Users/zach/springboard/PTCG-Collector/PTCG-schema.png)
+![Database Schema](PTCG-schema.png)
 
 I will need to hash the users passwords before entering them into the database.
 
